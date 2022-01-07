@@ -7,6 +7,12 @@ LilyGo-EPD47 树莓派版本的python脚本 <br/>
 <b>二.硬件： </b> <br/>
 lilygo的4.7寸墨水屏的树莓派接口版本 <br/>
 
+<img src= 'https://github.com/lixy123/LilyGo-EPD47-raspberry/blob/main/ink1.jpg?raw=true' /> <br/>
+<img src= 'https://github.com/lixy123/LilyGo-EPD47-raspberry/blob/main/ink2.jpg?raw=true' /> <br/>
+
+ 演示视频<br/>
+ https://github.com/lixy123/LilyGo-EPD47-raspberry/raw/main/ink.mp4<br/>
+
 <b>三.演示程序</b>  <br/>
 <b>(1)目录show_weather </b> <br/>
 
