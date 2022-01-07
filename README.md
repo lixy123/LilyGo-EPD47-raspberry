@@ -28,7 +28,7 @@ https://github.com/Xinyuan-LilyGO/LilyGo-EPD47/tree/master/examples/spi_driver
 2.打开https://www.jisuapi.com/api/weather/  <br/>
 3.申请免费天气key,  替换文件 weatherAPI_jishuapi.py  appkey后的*** <br/>
 4.cityid 换成本地城市ID <br/>
-5.epd47_img_maker.py 中用的中文字体，通过如下命令安装中文字体 <br/>
+5.epd47_img_maker.py 中用到的中文字体执行如下命令安装 <br/>
 sudo apt-getinstall fonts-wqy-zenhei   <br/>
 
 树莓派上运行： <br/>
@@ -56,7 +56,7 @@ https://github.com/Xinyuan-LilyGO/LilyGo-EPD47/tree/master/examples/spi_driver <
 2.打开https://www.jisuapi.com/api/weather/  <br/>
 3.申请免费天气key,  替换文件 weatherAPI_jishuapi.py  appkey后的*** <br/>
 4.cityid 换成本地城市ID <br/>
-5.epd47_img_maker.py 中用的中文字体，通过如下命令安装中文字体 <br/>
+5.epd47_img_maker.py 中用到的中文字体执行如下命令安装 <br/>
 sudo apt-getinstall fonts-wqy-zenhei   <br/>
 6. 配置用树莓派搭建微信公众号的环境，参考: <br/>
 https://www.h3399.cn/201712/523858.html <br/>
