@@ -7,13 +7,13 @@ LilyGo-EPD47 树莓派版本的python脚本 <br/>
 <b>二.硬件： </b> <br/>
 lilygo的4.7寸墨水屏的树莓派接口版本 <br/>
 
-<b>三.演示程序</b> 
+<b>三.演示程序</b>  <br/>
 <b>(1)目录show_weather </b> <br/>
 
 功能: <br/>
 墨水屏显示天气 <br/>
 
-墨水屏烧录此处程序:
+墨水屏烧录此处程序: <br/>
 https://github.com/Xinyuan-LilyGO/LilyGo-EPD47/tree/master/examples/spi_driver
 
 树莓派安装： <br/>
