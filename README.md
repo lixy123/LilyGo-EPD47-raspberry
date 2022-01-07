@@ -9,6 +9,7 @@ lilygo的4.7寸墨水屏的树莓派接口版本 <br/>
 
 <img src= 'https://github.com/lixy123/LilyGo-EPD47-raspberry/blob/main/ink1.jpg?raw=true' /> <br/>
 <img src= 'https://github.com/lixy123/LilyGo-EPD47-raspberry/blob/main/ink2.jpg?raw=true' /> <br/>
+<img src= 'https://github.com/lixy123/LilyGo-EPD47-raspberry/blob/main/ink3.jpg?raw=true' /> <br/>
 
  演示视频<br/>
  https://github.com/lixy123/LilyGo-EPD47-raspberry/raw/main/ink.mp4<br/>
