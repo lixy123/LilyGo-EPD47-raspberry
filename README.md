@@ -65,7 +65,3 @@ https://www.h3399.cn/201712/523858.html <br/>
 树莓派上运行： <br/>
 frp工具将本地端口 7005印射到微信公众号的域名 <br/>
 python3 weixin_memo_epd47.py frp端口号 <br/>
-
-自动定时运行: <br/>
-crontab -e <br/>
-设定时间自动执行 python3 epd_weather.py <br/>
