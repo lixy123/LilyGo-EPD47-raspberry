@@ -77,25 +77,25 @@ C.PiSugar2 树莓派电源模块二代 (淘宝有卖) <br/>
 <img src= 'https://github.com/lixy123/LilyGo-EPD47-raspberry/blob/main/ber2.jpg?raw=true' /> <br/>
 
 设置： <br/>
-1.用PiSugar2自带软件配置树莓派开机时间 <br/>
-2.修改rc.local启动后运行显示天气程序 <br/>
-3.显示完天气后执行树莓派关机命令 <br/>
+1.用PiSugar2自带软件配置树莓派定时开机时间，例如早上6点 <br/>
+2.修改rc.local,配置开机启动自动运行显示天气的程序 <br/>
+3.显示天气程序最后一句添加树莓派关机命令 <br/>
 
 
 2.利用墨水屏断电显示能力，用电池供电显示天气，每日1次刷新天气 <br/>
-  通过4G网卡联网 <br/>
+  通过4G网卡联网(注：适应场景更广) <br/>
 硬件: <br/>
 A.lilygo的4.7寸墨水屏 <br/>
 B.树莓派zero <br/>
 C.PiSugar2 树莓派电源模块二代 (淘宝有卖) <br/>
 D.树莓派zero2 专用 4G LTE、GPS及USB扩展模块(淘宝有卖) <br/>
-<img src= 'https://github.com/lixy123/LilyGo-EPD47-raspberry/blob/main/ber3.jpg?raw=true' /> <br/>
 <img src= 'https://github.com/lixy123/LilyGo-EPD47-raspberry/blob/main/ber4.jpg?raw=true' /> <br/>
+<img src= 'https://github.com/lixy123/LilyGo-EPD47-raspberry/blob/main/ber3.jpg?raw=true' /> <br/>
 
 设置： <br/>
-1.用PiSugar2自带软件配置树莓派开机时间 <br/>
-2.修改rc.local启动后运行显示天气程序 <br/>
-3.显示完天气后执行树莓派关机命令 <br/>
+1.用PiSugar2自带软件配置树莓派定时开机时间，例如早上6点 <br/>
+2.修改rc.local,配置开机启动自动运行显示天气的程序 <br/>
+3.显示天气程序最后一句添加树莓派关机命令 <br/>
 
 
 
