@@ -83,14 +83,14 @@ C.PiSugar2 树莓派电源模块二代 (淘宝有卖) <br/>
 
 
 2.利用墨水屏断电显示能力，用电池供电显示天气，每日1次刷新天气，初略估算，每15天需给电池包充电 <br/>
-  通过4G网卡联网(注：适应场景更广) <br/>
+  通过4G网卡联网 (注：适应场景更广) <br/>
 硬件: <br/>
 A.lilygo的4.7寸墨水屏 <br/>
 B.树莓派zero <br/>
 C.PiSugar2 树莓派电源模块二代 (淘宝有卖) <br/>
-D.树莓派zero2 专用 4G LTE、GPS及USB扩展模块(淘宝有卖) <br/>
-<img src= 'https://github.com/lixy123/LilyGo-EPD47-raspberry/blob/main/ber4.jpg?raw=true' /> <br/>
-<img src= 'https://github.com/lixy123/LilyGo-EPD47-raspberry/blob/main/ber3.jpg?raw=true' /> <br/>
+D.微型USB 4G上网设备(淘宝有卖) <br/>
+<img src= 'https://github.com/lixy123/LilyGo-EPD47-raspberry/blob/main/ber5.jpg?raw=true' /> <br/>
+<img src= 'https://github.com/lixy123/LilyGo-EPD47-raspberry/blob/main/ber6.jpg?raw=true' /> <br/>
 
 设置： <br/>
 1.用PiSugar2自带软件配置树莓派定时开机时间，例如早上6点 <br/>
